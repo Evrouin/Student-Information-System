@@ -18,50 +18,50 @@
             - Retype Password
         - Login:
             - Student Number and Password
-    Admin:
-        Signup:
-            Admin Username
-                Case sensitive Format: ADMIN-username
-            Full Name
-                Minimum character length of 6
-            Email     
-            Password
-                Password must be at least 8 characters
-                Password must have at least 1 uppercase character
-            Retype Password
-                Password Confirmation
-        Login:
-            Admin Username and Password
+    - Admin:
+        - Signup:
+            - Admin Username
+                - Case sensitive Format: ADMIN-username
+            - Full Name
+                - Minimum character length of 6
+            - Email     
+            - Password
+                - Password must be at least 8 characters
+                - Password must have at least 1 uppercase character
+            - Retype Password
+                - Password Confirmation
+        - Login:
+            - Admin Username and Password
 
-STUDENT
-    Profile Tab
-        Displays the first name of the student in the current session
-        Change password function
-    Home Tab
-    Student Enrolment Tab:
-        Fields:
-            Subject Code
-            Subject Description
-            Faculty Name
-            Units
-        Enrollment Button
-            When enrolment is successful, it directs you to the Subjects Tab
-    Student Subjects Tab:
-        Enrolled Subjects Table
-        Delete/Unenroll Subject Function
+## STUDENT
+    - Profile Tab
+        -Displays the first name of the student in the current session
+        - Change password function
+    - Home Tab
+    - Student Enrolment Tab:
+        - Fields:
+            - Subject Code
+            - Subject Description
+            - Faculty Name
+            - Units
+        - Enrollment Button
+            - When enrolment is successful, it directs you to the Subjects Tab
+    - Student Subjects Tab:
+        - Enrolled Subjects Table
+        - Delete/Unenroll Subject Function
 
-ADMIN
-    Profile Tab
-    Home Tab
-    Students Tab
-        Search student details
-            Fields: Student Number, Student Name, School Webmail, Section
-    Subjects Tab
-        Displays all subjects in an accordion type list
-        Display enrolled students per subjects
+## ADMIN
+    - Profile Tab
+    - Home Tab
+    - Students Tab
+        - Search student details
+            - Fields: Student Number, Student Name, School Webmail, Section
+    - Subjects Tab
+        - Displays all subjects in an accordion type list
+        - Display enrolled students per subjects
 
-Logout Function:
-    Logs out the session and clears all the user data
+## Logout Function:
+    - Logs out the session and clears all the user data
 
 
 
