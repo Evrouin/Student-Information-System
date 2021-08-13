@@ -1,25 +1,23 @@
 # Polytechnic University of the Philippines
-## BSCS 3-1 Web Development Project
-
 ## Student Website System
 ### Functions:
-Login/Signup:
-    Student:
-        Signup:
-            Student Number
-                Case sensitive Format: ####-#####-MN-0 
-            First Name
-                Minimum character length of 3
-            Last Name    
-                Minimum character length of 3
-            School Webmail     
-                Case Sensitive Format: username@iskolarngbayan.pup.edu.ph      
-            Password
-                Password must be at least 8 characters
-                Password must have at least 1 uppercase character
-            Retype Password
-        Login:
-            Student Number and Password
+- Login/Signup:
+    - Student:
+        - Signup:
+            - Student Number
+                - Case sensitive Format: ####-#####-MN-0 
+            - First Name
+                - Minimum character length of 3
+            - Last Name    
+                - Minimum character length of 3
+            - School Webmail     
+                - Case Sensitive Format: username@iskolarngbayan.pup.edu.ph      
+            - Password
+                - Password must be at least 8 characters
+                - Password must have at least 1 uppercase character
+            - Retype Password
+        - Login:
+            - Student Number and Password
     Admin:
         Signup:
             Admin Username
