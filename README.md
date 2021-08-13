@@ -1,6 +1,8 @@
 # Student Information System
 The website will enforce a twopart system, namely the administrative system and the student system. The administrative section will be in charge of managing the student data. While the subject registration and student profile management functions will be enforced by the student system.
 
+![image](https://user-images.githubusercontent.com/72487125/129427008-cf9dd116-aabf-4667-897e-b564bc615dd0.png)
+
 ## Functions:
 - Login/Signup:
     - Student:
