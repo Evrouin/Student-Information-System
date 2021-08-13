@@ -1,6 +1,6 @@
 # Polytechnic University of the Philippines
 ## Student Website System
-### Functions:
+## Functions:
 - Login/Signup:
     - Student:
         - Signup:
