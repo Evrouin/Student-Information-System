@@ -33,7 +33,7 @@
         - Login:
             - Admin Username and Password
 
-#STUDENT
+- STUDENT
     - Profile Tab
         -Displays the first name of the student in the current session
         - Change password function
@@ -50,7 +50,7 @@
         - Enrolled Subjects Table
         - Delete/Unenroll Subject Function
 
-#ADMIN
+- ADMIN
     - Profile Tab
     - Home Tab
     - Students Tab
@@ -60,7 +60,7 @@
         - Displays all subjects in an accordion type list
         - Display enrolled students per subjects
 
-#Logout Function:
+- Logout Function:
     - Logs out the session and clears all the user data
 
 
