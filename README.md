@@ -1,8 +1,8 @@
-Polytechnic University of the Philippines
-BSCS 3-1 Web Development Project
+#Polytechnic University of the Philippines
+##BSCS 3-1 Web Development Project
 
-Student Website System
-Functions:
+##Student Website System
+###Functions:
 Login/Signup:
     Student:
         Signup:
