@@ -5,7 +5,7 @@ The website will enforce a twopart system, namely the administrative system and 
 
 
 ## Functions:
-- Login/Signup:
+### Login/Signup:
     - Student:
         - Signup:
             - Student Number
